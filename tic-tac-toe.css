@@ -1,0 +1,19 @@
+#game-container {
+    height: 450px;
+    left: 50%;
+    margin-left: -225px;
+    position: relative;
+    top: 20px;
+    width: 433px;
+}
+
+a {
+    color: black;
+    float: left;
+    font-size: 130px;
+    height: 150px;
+    outline: 1px solid orange;
+    padding-left: 27px;
+    text-decoration: none;
+    width: 27%;
+}
